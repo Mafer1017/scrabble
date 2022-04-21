@@ -1,5 +1,5 @@
 require ('rspec')
-require ('scrabble')
+require ('anagram')
 
 describe("String#scrabble") do
   it("returns a scrabble score for a letter") do
